@@ -8,4 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript 
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- #SKILLS
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-rayan)](https://github.com/cle-rayan/github-readme-stats)
