@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - CSS
 - JAVASCRIPT
 - REACT
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-rayan)](https://github.com/cle-rayan/)
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-rayan)](https://github.com/cle-rayan/)
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cle-rayan&show_icons=true&theme=radical)
+
