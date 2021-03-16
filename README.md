@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - CSS
 - JAVASCRIPT
 - REACT
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-rayan)](https://github.com/cle-rayan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-rayan)](https://github.com/cle-rayan/)
